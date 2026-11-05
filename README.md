@@ -1,2 +1,23 @@
 Redesign Mobile KFC
 https://www.figma.com/design/JiumBkvxNc2odkvxOeJHm8/PJMUI?node-id=0-1&t=8ko6mXwOAYi6QNzW-1
+---------------------------------------------------------------------------------------------
+งานออกแบบนิตยสาร
+https://drive.google.com/file/d/1TucmNuxCEn_9SK__2JXjv6jIor_4qx5M/view?usp=sharing
+---------------------------------------------------------------------------------------------
+งานการออกแบบเว็บไซต์วิเคราะห์บุคลิกภาพ
+https://www.figma.com/design/tN9SDgnUA9TzruERIhJ1XQ/UI-Prototype---G10?node-id=0-1&t=kJHVcP9glV1fq1mg-1
+---------------------------------------------------------------------------------------------
+เว็บไซต์วิเคราะห์บุคลิกภาพ
+https://career-plum-mu.vercel.app/
+---------------------------------------------------------------------------------------------
+ผลงานรีดีไซน์ตู้คีออส 
+https://www.figma.com/design/HU1SFBiRYBNY2KrGPUD31T/redesign?node-id=0-1&p=f&t=yaSjMTnDU6jFnCuz-0
+---------------------------------------------------------------------------------------------
+ออกแบบวอลเปเปอร์ธีมHalloween
+https://www.figma.com/design/iHpCg6aDXI04HOrhOyzTh8/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%882-responsive?node-id=2005-3785&p=f&t=09SUPM7Mp55jBoMz-0
+---------------------------------------------------------------------------------------------
+ผลงานออกแบบฟอร์มสมัครเรียน
+https://www.figma.com/design/cK9svVTC4y43ukl2PTXn4e/Untitled?t=tdiVBeGY6ZNyq1sq-1
+---------------------------------------------------------------------------------------------
+ผลงานออกแบบแอปฟังเพลง
+https://www.figma.com/design/v9sbSVu7tHsiUitCQXQfYq/Design?node-id=0-1&p=f&t=09SUPM7Mp55jBoMz-0

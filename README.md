@@ -17,7 +17,7 @@ https://www.figma.com/design/HU1SFBiRYBNY2KrGPUD31T/redesign?node-id=0-1&p=f&t=y
 https://www.figma.com/design/iHpCg6aDXI04HOrhOyzTh8/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%882-responsive?node-id=2005-3785&p=f&t=09SUPM7Mp55jBoMz-0
 ---------------------------------------------------------------------------------------------
 ผลงานออกแบบฟอร์มสมัครเรียน
-https://www.figma.com/design/cK9svVTC4y43ukl2PTXn4e/Untitled?t=tdiVBeGY6ZNyq1sq-1
+https://www.figma.com/design/to5x5Gu9wJQfNX5hdb3lvk/1101071?t=09SUPM7Mp55jBoMz-0
 ---------------------------------------------------------------------------------------------
 ผลงานออกแบบแอปฟังเพลง
 https://www.figma.com/design/v9sbSVu7tHsiUitCQXQfYq/Design?node-id=0-1&p=f&t=09SUPM7Mp55jBoMz-0

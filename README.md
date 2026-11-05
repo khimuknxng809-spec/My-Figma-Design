@@ -31,6 +31,6 @@
 | :--- | :--- | :---: |
 | **✈️ UI จองทริปท่องเที่ยว** | งานออกแบบ UI แอปพลิเคชันจองทริปและแพ็กเกจเดินทาง | [🎨 Figma](https://www.figma.com/design/iqVdzKiXhBdOptXnIe16d3/Ui-OOP-93?node-id=0-1&t=7gc4e3Vg70YIt9Lx-0) |
 | **🖥️ รีดีไซน์ตู้คีออส (Kiosk)** | ปรับปรุง UX/UI หน้าจอ Kiosk สั่งอาหาร/บริการ | [🎨 Figma](https://www.figma.com/design/HU1SFBiRYBNY2KrGPUD31T/redesign?node-id=0-1&p=f&t=yaSJMTnDU6jFnCuz-0) |
-| **🎃 วอลเปเปอร์ธีม Halloween** | งานออกแบบ Graphic Wallpaper (Responsive) | [🎨 Figma](https://www.figma.com/design/iHpCg6aDXI04HorhOyzTh8/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B9%89responsive?node-id=2005-3785&p=f&t=09SUPM7Mp55jBoMz-0) |
-| **📝 ฟอร์มสมัครเรียน** | งานออกแบบ UI Form สมัครเรียน | [🎨 Figma](https://www.figma.com/design/to5x5Gu9WJOfNX5hdb3lvk/1101071?) |
+| **🎃 วอลเปเปอร์ธีม Halloween** | งานออกแบบ Graphic Wallpaper (Responsive) | [🎨 Figma](https://www.figma.com/design/iHpCg6aDXI04HOrhOyzTh8/%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%882-responsive?node-id=2005-4517&t=09SUPM7Mp55jBoMz-0) |
+| **📝 ฟอร์มสมัครเรียน** | งานออกแบบ UI Form สมัครเรียน | [🎨 Figma](https://www.figma.com/design/to5x5Gu9wJQfNX5hdb3lvk/1101071?node-id=0-1&p=f&t=09SUPM7Mp55jBoMz-0) |
 | **📖 งานออกแบบนิตยสาร** | งานจัดรูปเล่มนิตยสารดิจิทัล | [📁 Google Drive](https://drive.google.com/file/d/1TucmNuxCEn_9SK_2JXv6jlor_4qx5M/view?usp=sharing) |

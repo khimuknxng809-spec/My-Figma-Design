@@ -21,7 +21,7 @@
 ### 🧠 3. เว็บไซต์วิเคราะห์บุคลิกภาพ (Career Explorer)
 ระบบวิเคราะห์บุคลิกภาพและประเมินทักษะอาชีพ
 * 🌐 **Live Website:** [career-plum-mu.vercel.app](https://career-plum-mu.vercel.app/)
-* 🎨 **Figma Prototype:** [เปิดดู UI Prototype](https://www.figma.com/design/tN9SDgnUA9TzruERIHJ1XQ/UI-Prototype---G10?node-id=0-1&t=kJHVcP9gIV1fq1mg-1)
+* 🎨 **Figma Prototype:** [เปิดดู UI Prototype](https://www.figma.com/design/tN9SDgnUA9TzruERIhJ1XQ/UI-Prototype---G10?node-id=0-1&p=f&t=DZRF1Bx7eW3A6Uor-0)
 
 ---
 
